@@ -9,6 +9,12 @@
 2. 運算子移到對應的括號右邊
 3. 去掉括號
 
+範例 :
+
+1. a + b // c
+2. ((a+b) // c)
+3. ab + c //
+
 [中序式轉後序式](https://openhome.cc/Gossip/AlgorithmGossip/InFixPostfix.htm)
 
 [後序式的運算](https://openhome.cc/Gossip/AlgorithmGossip/PostfixCal.htm)
