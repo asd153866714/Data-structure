@@ -1,5 +1,5 @@
 # 最大公因數
-http://www.csie.ntnu.edu.tw/~u91029/Divisor.html#4
+[參考](http://www.csie.ntnu.edu.tw/~u91029/Divisor.html#4)
 
 # 河內塔
 
