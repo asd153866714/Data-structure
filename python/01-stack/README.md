@@ -13,7 +13,8 @@
 
 1. a + b // c
 2. ((a+b) // c)
-3. ab + c //
+3. ((ab) + c ) //
+4. ab + c //
 
 [中序式轉後序式](https://openhome.cc/Gossip/AlgorithmGossip/InFixPostfix.htm)
 
