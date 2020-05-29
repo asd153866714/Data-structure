@@ -1,4 +1,5 @@
-# Circle Queue
+# Circular Queue
+
 import sys
 
 MAX = 10
@@ -18,7 +19,7 @@ def enqueue_f():
     if front == rear and tag == 1: # 當佇列已滿，則顯示錯誤
         print('\n   此佇列已滿！')
     else:
-        rear = (rear + 1) % MAX
+        rear = (rear + 1) % MAX     # 餘數等於陣列的索引 
         cq[rear] = input('\n 請輸入一筆資料（字串格式）：')
 
         if front == rear:
