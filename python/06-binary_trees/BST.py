@@ -100,7 +100,7 @@ def remove(name):
         return
     # 節點不為樹葉節點的狀況
     if del_node.llink != None or del_node.rlink != None:
-        del_node == replace(del_node)
+        del_node = replace(del_node)
     else:
         if del_node == root:
             root = None
